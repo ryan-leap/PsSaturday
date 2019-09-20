@@ -1,0 +1,5 @@
+Files:        4
+Directories:  2
+Size:         120,488 bytes
+Size on disk: 135,168 bytes
+
