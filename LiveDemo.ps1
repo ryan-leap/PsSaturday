@@ -15,7 +15,7 @@
 .EXAMPLE
    Get-ChildItem -Path (Join-Path -Path $env:USERPROFILE -ChildPath Downloads) -Directory -Recurse | Get-SysInternalsDiskUsage | Sort-Object -Property DirectorySize
 .NOTES
-   Written during (and tweaked after) PoweShell Saturday RTPSUG (https://rtpsug.com/pssaturday) talk
+   Written during (and tweaked after) PowerShell Saturday RTPSUG (https://rtpsug.com/pssaturday) talk
    'Why Can't We Be Friends: PowerShell & Command Line Utilities'
    
    Author/Speaker:
