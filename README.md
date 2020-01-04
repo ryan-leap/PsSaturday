@@ -3,7 +3,8 @@ Contains materials and code prepared for and created during PowerShell Saturday 
 
 ## YouTube
 
-https://youtu.be/nRZC0WQ49AU
+- PowerShell Saturday Session - https://youtu.be/nRZC0WQ49AU
+- RTPSUG Meeting Jan 1, 2020 - https://youtu.be/OofhiQuqQAY
 
 ## Author(s)
 
